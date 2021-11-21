@@ -1,4 +1,4 @@
-# ◾️ Hey there, I'm Itzik | Looking for a talented/team-pusher programmer?
+# ◾️ Hey there, I'm Itzik  | Autodidact programmer.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
