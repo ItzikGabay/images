@@ -1,4 +1,4 @@
-# ◾️ Hey there, I'm Itzik  | Autodidact programmer.
+# ◾️ Hey there, I'm Itzik  | Autodidact Researcher.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -24,7 +24,7 @@ Add, Find, Rate & Visit cool places wordwide.
 
 ## ◾️ Get-statistics 
 ### Nodejs, Firebase, Firestore, Vue & Vuex, Quasar
-Retrieve important statistics about your business. Demo link:
+Retrieve important statistics about your business. Demo link:`
 ### [🔗 Demo link](https://get-statistics-aa262.web.app/#/api) 
 ### [🔗 Video](https://www.youtube.com/watch?v=o4FStTuK05I&ab_channel=Itzik) 
 ### [🔗 Repo](https://github.com/ItzikGabay/getstatistics)
